@@ -1,0 +1,5 @@
+#ifndef BOOLEANPARSER
+#define BOOLEANPARSER
+
+#endif // BOOLEANPARSER
+

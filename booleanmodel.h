@@ -1,0 +1,5 @@
+#ifndef BOOLEANMODEL
+#define BOOLEANMODEL
+
+#endif // BOOLEANMODEL
+
